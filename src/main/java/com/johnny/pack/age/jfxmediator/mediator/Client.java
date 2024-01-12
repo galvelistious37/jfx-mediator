@@ -10,7 +10,7 @@ import javafx.stage.Stage;
 public class Client extends Application {
     // NOTE: ****** To run this, module-info.java needs to have this classpath in the 'opens'
     // section, and it requires all the jfx dependencies needed to run the project. Future me will
-    // hopefully appreciate this note.
+    // hopefully appreciate this note. ****************************
 
     @Override
     public void start(Stage stage) throws Exception {
